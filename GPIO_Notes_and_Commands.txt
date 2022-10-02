@@ -1,0 +1,27 @@
+
+
+
+1.	Version info:	gpio -v
+2.	Pin readouts:	gpio readall
+3.	
+
+
+
+GPIO is your standard pins that can be used to turn devices on and off. For example, a LED.
+I2C (Inter-Integrated Circuit) pins allow you to connect and talk to hardware modules that support this protocol (I2C Protocol). This protocol will typically take up two pins.
+SPI (Serial Peripheral Interface Bus) pins can be used to connect and talk to SPI devices. Pretty much the same as I2C but makes use of a different protocol.
+UART (Universal asynchronous receiver/transmitter) is the serial pins used to communicate with other devices.
+DNC stands for do not connect, this is pretty self-explanatory.
+The power pins pull power directly from the Raspberry Pi.
+GND are the pins you use to ground your devices. It doesn’t matter which pin you use as they are all connected to the same line.
+
+Set up I2C pins:
+sudo raspi-config
+6 - Advanced Options
+A7 I2C - Enable
+
+
+
+
+
+
