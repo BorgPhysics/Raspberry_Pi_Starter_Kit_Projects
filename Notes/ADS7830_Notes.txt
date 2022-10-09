@@ -1,0 +1,12 @@
+
+Full tutorial with my exact Freenove version of ADS7830:
+https://kevinboone.me/adc.html?i=1
+
+Another tutorial:
+https://www.js4iot.com/2021/06/06/ADC_RPIO.html
+
+Google:
+understanding the ADS7830 and i2c addresses tutorial
+
+Adafruit:
+https://learn.adafruit.com/scanning-i2c-addresses/i2c-basics

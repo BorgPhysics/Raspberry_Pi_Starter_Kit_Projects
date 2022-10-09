@@ -1,1 +1,24 @@
 FROM: https://github.com/Freenove/Freenove_Complete_Starter_Kit_for_Raspberry_Pi
+
+Wiring Pi:
+https://github.com/WiringPi/WiringPi
+API:
+http://wiringpi.com/
+PyPi:
+https://pypi.org/project/wiringpi/
+
+Examples:
+https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/
+
+
+GPI Zero:
+A simple interface to GPIO devices with Raspberry Pi.
+https://gpiozero.readthedocs.io/en/stable/index.html
+
+
+
+
+
+
+
+
