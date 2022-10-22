@@ -7,6 +7,21 @@ https://www.js4iot.com/2021/06/06/ADC_RPIO.html
 
 Google:
 understanding the ADS7830 and i2c addresses tutorial
+https://www.google.com/search?q=understanding+the+ADS7830+and+i2c+addresses+tutorial
 
 Adafruit:
+https://learn.adafruit.com/choosing-an-adc
 https://learn.adafruit.com/scanning-i2c-addresses/i2c-basics
+https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters
+CODE Example:  https://learn.adafruit.com/mcp3008-spi-adc/python-circuitpython
+I2C Addresses: https://github.com/adafruit/I2C_Addresses/
+
+
+Digikey - with code examples:
+https://www.digikey.com/en/maker/projects/raspberry-pi-analog-to-digital-converters/72388f5f1a0843418130f56c53a1276c
+
+Amazon search:
+https://www.amazon.com/s?k=raspberry+pi+analog+to+digital+converter&crid=ZY8U73G9Q304&sprefix=raspberry+pi+analog+to+digital+converter%2Caps%2C63&ref=nb_sb_noss_1
+
+
+
